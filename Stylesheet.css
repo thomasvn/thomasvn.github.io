@@ -1,0 +1,116 @@
+html,body {
+	height: 100%;
+	width: 100%
+}
+
+.center-block {
+	margin: 0 auto;
+}
+
+.vcenter {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Home Page */
+.jumbotron {
+	height: 100%;
+	background-size: 100%;
+/*	background-image: url("https://goo.gl/w0s9CF"); */
+	background-image: url(img/ocean.jpg);
+/*	background: no-repeat; */
+}
+
+.jumbotron .container {
+	margin-top: 7em;
+	margin-left: 7em;
+}
+
+.jumbotron h1 {
+	font-size: 5em;
+	font-weight: bold;
+}
+
+.jumbotron p {
+	font-size: 4em;
+}
+
+.page-header {
+	margin-left: 10em;
+	margin-top: 7em;
+}
+
+.page-header h1 {
+	font-size: 4em;
+}
+
+.description {
+	height:80%;
+	margin-left: 6em;
+	margin-top: 2em;
+	margin-right: 3em;
+	font-size: 2em;
+}
+
+#about {
+	height: 90%;
+}
+
+
+/* Personal Page */
+#author {
+	margin-left: 3em;
+}
+
+/* Experience Page */
+#work .container-fluid .row {
+	padding-bottom: 3em;
+}
+
+#work .container-fluid .row p {
+	font-family: Arial, Helvetica, Sans-Serif;
+	font-size: 1.5em;
+	padding: 2em;
+	margin-top: -1em;
+}
+
+#projects .container-fluid .row {
+	padding-bottom: 3em;
+}
+
+#projects .container-fluid #photo {
+	width: 85%;
+	height: 85%;
+}
+
+#projects .container-fluid .row p {
+	font-family: Arial, Helvetica, Sans-Serif;
+	font-size: 1.5em;
+	padding: 2em;
+	margin-top: -1em;
+}
+
+/* Portfolio Page */
+#myCarousel {
+	background-size: 100%;
+	height: 100%;
+}
+
+.carousel-inner {
+	background-size: 100%;
+	max-height: 100%;
+}
+
+#albums .cover img{
+	height: 75%;
+	width: 75%;
+	border-radius: 100%;
+}
+
+#albums h2 {
+	text-align: center;
+}
+
+#albums .row {
+	padding-bottom: 4em;
+}
