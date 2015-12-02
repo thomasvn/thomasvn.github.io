@@ -12,13 +12,29 @@ html,body {
   flex-direction: row;
 }
 
+/* NavBar */
+.navbar {
+	background: transparent;
+	border: 0;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar-nav a {
+	color: #000000;
+}
+
+.navbar-brand a {
+	color: #000000;
+}
+
+
 /* Home Page */
 .jumbotron {
 	height: 100%;
 	background-size: 100%;
 /*	background-image: url("https://goo.gl/w0s9CF"); */
 	background-image: url(img/ocean.jpg);
-/*	background: no-repeat; */
+	background-repeat: no-repeat;
 }
 
 .jumbotron .container {
@@ -27,7 +43,7 @@ html,body {
 }
 
 .jumbotron h1 {
-	font-size: 5em;
+	font-size: 15vh;
 	font-weight: bold;
 }
 
