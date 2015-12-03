@@ -69,7 +69,22 @@ html,body {
 }
 
 #about {
-	height: 90%;
+	height: 50%;
+}
+
+#contact i {
+	margin: 0;
+	font-size: 1000%;
+	padding-left: .75em;
+}
+
+#contact a {
+	padding-left: .75em;
+}
+
+#contact .row {
+	padding-top: 1em;
+	padding-bottom: 3em;
 }
 
 
