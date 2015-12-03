@@ -93,6 +93,10 @@ html,body {
 	margin-left: 3em;
 }
 
+#personal{
+	height: 90%;
+}
+
 /* Experience Page */
 #work .container-fluid .row {
 	padding-bottom: 3em;
