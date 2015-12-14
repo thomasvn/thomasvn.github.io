@@ -27,27 +27,31 @@ html,body {
 	color: #000000;
 }
 
+.navbar .icon-bar {
+	color: #000000;
+}
+
 
 /* Home Page */
-.jumbotron {
+.opening {
 	height: 100%;
-	background-size: 100%;
-/*	background-image: url("https://goo.gl/w0s9CF"); */
+	width: 100%;
+	background-size: cover;
 	background-image: url(img/ocean.jpg);
 	background-repeat: no-repeat;
 }
 
-.jumbotron .container {
-	margin-top: 7em;
-	margin-left: 7em;
+.opening .container {
+	padding-top: 7%;
+	margin-left: 4%;
 }
 
-.jumbotron h1 {
+.opening h1 {
 	font-size: 15vh;
 	font-weight: bold;
 }
 
-.jumbotron p {
+.opening p {
 	font-size: 4em;
 }
 
@@ -80,11 +84,6 @@ html,body {
 
 #contact a {
 	padding-left: .75em;
-}
-
-#contact .row {
-	padding-top: 1em;
-	padding-bottom: 3em;
 }
 
 
