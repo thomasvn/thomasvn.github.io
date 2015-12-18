@@ -1,6 +1,15 @@
 html,body {
 	height: 100%;
-	width: 100%
+	width: 100%;
+	font-family: 'Flamenco', cursive;
+}
+
+h1,h2,h3 {
+	font-family: 'Asap', sans-serif;
+}
+
+p {
+	font-family: 'Flamenco', cursive;
 }
 
 .center-block {
@@ -8,15 +17,15 @@ html,body {
 }
 
 .vcenter {
-  display: flex;
-  flex-direction: row;
+	display: flex;
+	flex-direction: row;
 }
 
 /* NavBar */
 .navbar {
 	background: transparent;
 	border: 0;
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Asap', sans-serif;
 }
 
 .navbar-nav a {

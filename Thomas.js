@@ -10,7 +10,7 @@ $(function() {
 });
 
 window.addEventListener("scroll", function() {
-    if (window.scrollY > 150) {
+    if (window.scrollY > 50) {
         $('.navbar').fadeOut();
     }
     else {
