@@ -93,6 +93,16 @@
 		padding-top: 150%;
 	}
 
+	#labs .row li {
+		font-size: 75%;
+		padding-left: 10%;
+	}
+
+	#labs .row {
+		padding-top: 0.5%;
+		padding-bottom: 1%;
+	}
+
 	/* Portfolio Page */
 	.carousel-inner h1 {
 		font-size: 100%;
@@ -198,6 +208,16 @@
 
 	#projects #p2 {
 		padding-top: 90%;
+	}
+
+	#labs .row li {
+		font-size: 150%;
+		padding-left: 11%;
+	}
+
+	#labs .row {
+		padding-top: 1%;
+		padding-bottom: 2%;
 	}
 
 	/* Portfolio Page */
@@ -326,6 +346,16 @@
 		font-size: 1.5em;
 		padding: 2em;
 		margin-top: -1em;
+	}
+
+	#labs .row li {
+		font-size: 150%;
+		padding-left: 25%;
+	}
+
+	#labs .row {
+		padding-top: 1%;
+		padding-bottom: 2%;
 	}
 
 	/* Portfolio Page */

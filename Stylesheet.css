@@ -132,6 +132,16 @@ p {
 	margin-top: -1em;
 }
 
+#labs .row li {
+	font-size: 150%;
+	padding-left: 25%;
+}
+
+#labs .row {
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+
 /* Portfolio Page */
 #myCarousel {
 	background-size: 100%;
