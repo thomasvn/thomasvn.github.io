@@ -61,6 +61,38 @@
 		height: 110%;
 	}
 
+	/* Experience Page */
+	.page-header{
+		padding-top: 10%;
+		font-size: 100%;
+	}
+
+	.row h1 {
+		font-size: 100%;
+	}
+
+	#work .row p {
+		font-size: 75%;
+		padding: 2%;
+	}
+
+	#projects .row p{
+		font-size: 75%;
+		padding: 2%;
+	}
+
+	#work #w1 {
+		padding-top: 300%;
+	}
+
+	#projects #p1 {
+		padding-top: 125%;
+	}
+
+	#projects #p2 {
+		padding-top: 150%;
+	}
+
 	/* Portfolio Page */
 	.carousel-inner h1 {
 		font-size: 100%;
@@ -133,6 +165,39 @@
 	#personal{
 		padding-top: 3%;
 		height: 125%;
+	}
+
+	/* Experience Page */
+	.row h1{
+		font-size: 200%;
+	}
+
+	.page-header{
+		padding-top: 5%;
+		font-size: 100%;
+	}
+
+	#work .row p {
+		font-size: 150%;
+		padding: 5%;
+	}
+
+	#work #w1 {
+		padding-top: 100%;
+	}
+
+	#projects .row p {
+		padding-bottom: 5%;
+		padding: 5%;
+		font-size: 150%;
+	}
+
+	#projects #p1 {
+		padding-top: 60%;
+	}
+
+	#projects #p2 {
+		padding-top: 90%;
 	}
 
 	/* Portfolio Page */
@@ -220,28 +285,44 @@
 	}
 
 	/* Experience Page */
-	#work .container-fluid .row {
+	.row h1{
+		font-size: 300%;
+	}
+
+	.page-header{
+		padding-top: 0%;
+		font-size: 100%
+	}
+
+	#work .row {
 		padding-bottom: 3em;
 	}
 
-	#work .container-fluid .row p {
-		font-family: Arial, Helvetica, Sans-Serif;
+	#work .row p {
 		font-size: 1.5em;
 		padding: 2em;
 		margin-top: -1em;
 	}
 
-	#projects .container-fluid .row {
+	#work #w1 {
+		padding-top: 25%;
+	}
+
+	#projects .row {
 		padding-bottom: 3em;
 	}
 
-	#projects .container-fluid #photo {
-		width: 85%;
-		height: 85%;
+	#projects #p1 {
+		padding-top: 5%;
 	}
 
-	#projects .container-fluid .row p {
-		font-family: Arial, Helvetica, Sans-Serif;
+	#projects #p2 {
+		width: 85%;
+		height: 85%;
+		padding-top: 8%;
+	}
+
+	#projects .row p {
 		font-size: 1.5em;
 		padding: 2em;
 		margin-top: -1em;
