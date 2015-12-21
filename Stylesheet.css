@@ -25,13 +25,13 @@ p {
 .navbar {
 	background: transparent;
 	border: 0;
-	font-family: 'Asap', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
 }
 
 .navbar-nav a {
 	color: #000000;
 }
-
 
 /* Home Page */
 .opening {
