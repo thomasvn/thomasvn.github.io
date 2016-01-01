@@ -1,0 +1,389 @@
+/*******************************************************************************/
+@media screen and (min-width: 320px){
+	/* Home Page */
+	.opening .container {
+		padding-top: 15%;
+		margin-left: 4%;
+	}
+
+	.opening h1 {
+		font-size: 300%;
+		font-weight: bold;
+	}
+
+	.opening p {
+		font-size: 5%;
+	}
+
+	.page-header {
+		margin-left: 10%;
+		margin-top: 7%;
+	}
+
+	.page-header h1 {
+		font-size: 200%;
+	}
+
+	.description {
+		height:80%;
+		margin-left: 12%;
+		margin-top: 5%;
+		margin-right: 5%;
+		font-size: 150%;
+	}
+
+	#about {
+		height: 100%;
+	}
+
+	#contact i {
+		margin: auto;
+		font-size: 600%;
+		text-align: center;
+	}
+
+	#contact .row {
+		padding-top: 3%;
+		padding-bottom: 7%;
+	}
+
+	/* Personal Page */
+	#author {
+		margin-left: 2em;
+	}
+
+	.description{
+		font-size: 100%;
+		margin-right: 10%;
+	}
+
+	#personal{
+		padding-top: 13%;
+		height: 110%;
+	}
+
+	/* Experience Page */
+	.page-header{
+		padding-top: 10%;
+		font-size: 100%;
+	}
+
+	.row h1 {
+		font-size: 100%;
+	}
+
+	#work .row p {
+		font-size: 75%;
+		padding: 2%;
+	}
+
+	#projects .row p{
+		font-size: 75%;
+		padding: 2%;
+	}
+
+	#work #w1 {
+		padding-top: 300%;
+	}
+    
+    #work #w2 {
+        padding-top: 175%;
+    }
+
+	#projects #p1 {
+		padding-top: 125%;
+	}
+
+	#projects #p2 {
+		padding-top: 150%;
+	}
+
+	#labs .row li {
+		font-size: 75%;
+		padding-left: 10%;
+	}
+
+	#labs .row {
+		padding-top: 0.5%;
+		padding-bottom: 1%;
+	}
+
+	/* Portfolio Page */
+	.carousel-inner h1 {
+		font-size: 100%;
+		margin-bottom: -10%;
+	}
+
+	.carousel-inner img {
+		width:100%;
+		height:auto;
+	}
+}
+/*******************************************************************************/
+
+
+/*******************************************************************************/
+@media screen and (min-width: 680px){
+	/* Home Page */
+	.opening .container {
+		padding-top: 7%;
+		margin-left: 4%;
+	}
+
+	.opening h1 {
+		font-size: 500%;
+		font-weight: bold;
+	}
+
+	.opening p {
+		font-size: 3em;
+	}
+
+	.page-header {
+		margin-left: 8%;
+		margin-top: 7%;
+	}
+
+	.page-header h1 {
+		font-size: 300%;
+	}
+
+	.description {
+		height:80%;
+		margin-left: 12%;
+		margin-top: 4%;
+		margin-right: 5%;
+		font-size: 175%;
+	}
+
+	#about {
+		height: 85%;
+	}
+
+	#contact i {
+		margin: 0;
+		font-size: 1000%;
+	}
+
+	#contact .row {
+		padding-top: 1em;
+		padding-bottom: 3em;
+	}
+
+	/* Personal Page */
+	#author {
+		margin-left: 3em;
+	}
+
+	.description{
+		font-size: 150%;
+		margin-right: 10%;
+	}
+
+	#personal{
+		padding-top: 3%;
+		height: 125%;
+	}
+
+	/* Experience Page */
+	.row h1{
+		font-size: 200%;
+	}
+
+	.page-header{
+		padding-top: 5%;
+		font-size: 100%;
+	}
+
+	#work .row p {
+		font-size: 150%;
+		padding: 5%;
+	}
+
+	#work #w1 {
+		padding-top: 100%;
+	}
+    
+    #work #w2 {
+        padding-top: 100%;
+    }
+
+	#projects .row p {
+		padding-bottom: 5%;
+		padding: 5%;
+		font-size: 150%;
+	}
+
+	#projects #p1 {
+		padding-top: 60%;
+	}
+
+	#projects #p2 {
+		padding-top: 90%;
+	}
+
+	#labs .row li {
+		font-size: 150%;
+		padding-left: 11%;
+	}
+
+	#labs .row {
+		padding-top: 1%;
+		padding-bottom: 2%;
+	}
+
+	/* Portfolio Page */
+	.carousel-inner h1 {
+		font-size: 200%;
+		margin-bottom: -2%;
+	}
+
+	.carousel-inner img {
+		width:100%;
+		height:auto;
+	}
+}
+/*******************************************************************************/
+
+
+/*******************************************************************************/
+@media screen and (min-width: 1200px){
+	/* Home Page */
+	.opening {
+		height: 100%;
+		width: 100%;
+		background-size: cover;
+		background-image: url(../img/ocean.jpg);
+		background-repeat: no-repeat;
+	}
+
+	.opening .container {
+		padding-top: 7%;
+		margin-left: 4%;
+	}
+
+	.opening h1 {
+		font-size: 800%;
+		font-weight: bold;
+	}
+
+	.opening p {
+		font-size: 4em;
+	}
+
+	.page-header {
+		margin-left: 10em;
+		margin-top: 7em;
+	}
+
+	.page-header h1 {
+		font-size: 4em;
+	}
+
+	.description {
+		height:80%;
+		margin-left: 6em;
+		margin-top: 2em;
+		margin-right: 3em;
+		font-size: 2em;
+	}
+
+	#about {
+		height: 50%;
+	}
+
+	#contact i {
+		margin: 0;
+		font-size: 1000%;
+		padding-left: .75em;
+	}
+
+	#contact a {
+		padding-left: .75em;
+	}
+
+
+	/* Personal Page */
+	#author {
+		margin-left: 3em;
+	}
+
+	.description{
+		font-size: 200%;
+		margin-right: 10%;
+	}
+
+	#personal{
+		margin-top: -3%;
+		height: 120%;
+	}
+
+	/* Experience Page */
+	.row h1{
+		font-size: 300%;
+	}
+
+	.page-header{
+		padding-top: 0%;
+		font-size: 100%
+	}
+
+	#work .row {
+		padding-bottom: 3em;
+	}
+
+	#work .row p {
+		font-size: 1.5em;
+		padding: 2em;
+		margin-top: -1em;
+	}
+
+	#work #w1 {
+		padding-top: 25%;
+	}
+    
+#work #w2 {
+    padding-top: 7%;
+}
+
+	#projects .row {
+		padding-bottom: 3em;
+	}
+
+	#projects #p1 {
+		padding-top: 5%;
+	}
+
+	#projects #p2 {
+		width: 85%;
+		height: 85%;
+		padding-top: 8%;
+	}
+
+	#projects .row p {
+		font-size: 1.5em;
+		padding: 2em;
+		margin-top: -1em;
+	}
+
+	#labs .row li {
+		font-size: 150%;
+		padding-left: 25%;
+	}
+
+	#labs .row {
+		padding-top: 1%;
+		padding-bottom: 2%;
+	}
+
+	/* Portfolio Page */
+	.carousel-inner h1 {
+		font-size: 200%;
+	}
+
+	.carousel-inner img {
+		width:75%;
+		height:auto;
+	}
+}
+/*******************************************************************************/

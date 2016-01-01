@@ -1,0 +1,181 @@
+html,body {
+	height: 100%;
+	width: 100%;
+	font-family: 'Raleway', sans-serif;
+}
+
+h1,h2,h3 {
+	font-family: 'Quicksand', sans-serif;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+}
+
+.center-block {
+	margin: 0 auto;
+}
+
+.vcenter {
+	display: flex;
+	flex-direction: row;
+}
+
+
+/* NavBar */
+.navbar {
+	background: transparent;
+	border: 0;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+}
+
+.navbar-nav a {
+	color: #000000;
+}
+
+/* Home Page */
+.opening {
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-image: url(../img/ocean.jpg);
+	background-repeat: no-repeat;
+}
+
+.opening .container {
+	padding-top: 7%;
+	margin-left: 4%;
+}
+
+.opening h1 {
+	font-size: 800%;
+	font-weight: bold;
+}
+
+.opening p {
+	font-size: 4em;
+}
+
+.page-header {
+	margin-left: 10em;
+	margin-top: 7em;
+}
+
+.page-header h1 {
+	font-size: 4em;
+}
+
+.description {
+	height:80%;
+	margin-left: 6em;
+	margin-top: 2em;
+	margin-right: 3em;
+	font-size: 2em;
+}
+
+#about {
+	height: 50%;
+}
+
+#contact i {
+	margin: 0;
+	font-size: 1000%;
+	padding-left: .75em;
+}
+
+#contact a {
+	padding-left: .75em;
+}
+
+
+/* Personal Page */
+#author {
+	margin-left: 3em;
+}
+
+#personal{
+	height: 90%;
+}
+
+/* Experience Page */
+#work .row {
+	padding-bottom: 3em;
+}
+
+#work .row p {
+	font-size: 1.5em;
+	padding: 2em;
+	margin-top: -1em;
+}
+
+#work #w1 {
+	padding-top: 25%;
+}
+
+#work #w2 {
+    width: 75%;
+    height: 75%;
+    padding-top: 7%;
+}
+
+#projects .row {
+	padding-bottom: 3em;
+}
+
+#projects #p1 {
+	padding-top: 5%;
+}
+
+#projects #p2 {
+	width: 85%;
+	height: 85%;
+	padding-top: 8%;
+}
+
+#projects .row p {
+	font-size: 1.5em;
+	padding: 2em;
+	margin-top: -1em;
+}
+
+#labs .row li {
+	font-size: 150%;
+	padding-left: 25%;
+}
+
+#labs .row {
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+
+
+/* Portfolio Page */
+#myCarousel {
+	background-size: 100%;
+	height: 100%;
+}
+
+.carousel-inner {
+	background-size: 100%;
+	max-height: 100%;
+}
+
+.carousel-inner img {
+	width:75%;
+	height:auto;
+}
+
+#albums .cover img{
+	height: 75%;
+	width: 75%;
+	border-radius: 100%;
+}
+
+#albums h2 {
+	text-align: center;
+}
+
+#albums .row {
+	padding-bottom: 4em;
+}
