@@ -1,4 +1,5 @@
-# Online-Portfolio
-A website created to give a glimpse of my life and what I do
+# Personal-Website
+
+An online portfolio created to document my hobbies and work.
 
 
